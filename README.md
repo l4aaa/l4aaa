@@ -1,103 +1,90 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Laurentiu%20Chircan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Systems%20Engineering%20%7C%20Cybersecurity&descAlignY=60&descSize=20"/>
 </p>
-
-<h1 align="center">
-  Hi, I'm Laurentiu Chircan
-</h1>
 
 <p align="center">
-<!--<a href="https://www.linkedin.com/in/l4aaa/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
--->
-<a href="https://www.instagram.com/1lauuu/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<a href="mailto:laurentiu.chircan@gmail.com">
-  <img height="50" src="https://github.com/user-attachments/assets/1b2ef278-31c4-4d4f-b915-0addecf5db9b" />
-</a>
-  
+  <a href="https://linkedin.com/in/laurentiu-chircan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:laurentiu.chircan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://instagram.com/1lauuu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
----
+<br />
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2>👨🏻‍💻 &nbsp;About Me</h2>
+
+I am a **Computer Science undergraduate** at the West University of Timisoara, specializing in **Systems Engineering** and **Cybersecurity**. My work focuses on building secure, performance-critical software, from low-level C++ algorithm benchmarking to robust full-stack web architectures.
 
 ```yaml
-name: Laurentiu Chircan
-located_in: Timisoara, Romania
-current_status: Computer Science Student (Year 2)
-
-education:
-  [
-    "BSc in Computer Science (in progress)",
-    "West University of Timisoara",
-  ]
-
-fields_of_interests:
-  [
-    "Cybersecurity (beginner to intermediate)",
-    "Low-Level Programming",
-    "Operating Systems",
-    "Networking Fundamentals",
-    "Hardware & System Internals",
-  ]
-
-technical_background:
-  [
-    "C and C++ (intermediate)",
-    "Java and Python (comfortable)",
-    "Linux / UNIX usage",
-    "Git version control",
-    "Basic debugging and problem solving",
-    "Introductory knowledge of memory management",
-  ]
+user_profile:
+  name: Laurentiu Andrei Chircan
+  location: Timisoara, Romania
+  education: 
+    - BSc in Computer Science (English Taught)
+    - West University of Timisoara
   
-currently_learning:
-  [
-    "System-level programming",
-    "Basic reverse engineering concepts",
-    "Web security fundamentals",
-  ]
+  core_interests:
+    - Low-Level Programming & System Internals
+    - Cybersecurity & Reverse Engineering
+    - High-Performance Algorithms (SAT Solvers)
+    - Full-Stack Architecture
 
-goals_2026:
-  [
-    "Build small security-oriented projects",
-    "Improve understanding of system internals",
-    "Participate in beginner-friendly CTFs",
-  ]
+  current_focus:
+    - Mastering Operating Systems & Computer Architecture
+    - Building security-oriented tools
+    - Participating in CTFs
 
-hobbies:
-  [
-    "Gaming",
-    "JDM cars",
-    "Exploring new technology",
-    "Hardware tinkering",
-  ]
+  hobbies:
+    - 🏎️ JDM Cars
+    - 🎮 Competitive Gaming
+    - 🔧 Hardware Tinkering
 ```
-  
----  
-  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
+<br />
+
+<h2>🛠️ &nbsp;Technical Arsenal</h2>
+
+| **Languages** | **Frameworks & Libraries** | **Tools & Platforms** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=c,cpp,java,python" /> <br/> <img src="https://skillicons.dev/icons?i=ts,js,bash" /> | <img src="https://skillicons.dev/icons?i=spring,react,tailwind,nodejs" /> | <img src="https://skillicons.dev/icons?i=git,linux,docker,postgres" /> <br/> <img src="https://skillicons.dev/icons?i=vscode,idea,maven,postman" /> |
+
+<br />
+
+<h2>🚀 &nbsp;Featured Projects</h2>
+
+### 🧠 [Classical SAT Solving Algorithms](https://github.com/l4aaa/classical-sat-solving-algorithms)
+> *C++11, Python 3, Optimization, Benchmarking*
+* **What it is:** A high-performance benchmarking tool for Boolean Satisfiability (SAT) problems.
+* **Key Tech:** Implements **Resolution**, **DP**, **DPLL**, and **CDCL** algorithms.
+* **Highlights:** Features a custom DIMACS CNF parser and precise `std::chrono` performance metrics to analyze execution time across 2SAT/3SAT datasets in milliseconds.
+
+### 🎮 [LevelUp (Full Stack)](https://github.com/l4aaa/LevelUP-frontend)
+> *Java 21, Spring Boot 4, React 19, PostgreSQL, TypeScript*
+* **What it is:** A gamified academic platform transforming student tasks into an RPG adventure.
+* **Backend:** Secure REST API with **JWT stateless auth**, async task verification, and pessimistic locking for data integrity.
+* **Frontend:** Modern SPA using **Vite** and **Tailwind CSS** with real-time XP tracking, optimistic UI updates, and global leaderboards.
+
+### 💳 [Electronic Wallet System](https://github.com/l4aaa/electronic_wallet_system)
+> *C++17, STL, Makefiles*
+* **What it is:** A robust, console-based financial system simulating a real-world banking ecosystem.
+* **Key Tech:** Bidirectional data flow between a **Wallet Manager** and **Remote Terminal**.
+* **Highlights:** Custom file I/O for CSV serialization, P2P fund transfers, and rigorous input sanitization to prevent state corruption.
+
+<br />
+
+<h2>📈 &nbsp;GitHub Stats</h2>
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt = "java" width="45" height = "45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+  <img src="https://github-readme-stats.vercel.app/api?username=l4aaa&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="l4aaa" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=l4aaa&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="l4aaa" height="150" />
 </p>
+
+<br />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

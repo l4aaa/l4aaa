@@ -9,9 +9,6 @@
     <a href="mailto:laurentiu.chircan@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://drive.google.com/file/d/1zWfv1Xu8AJS_eHgcTN7uoTSRaC0cnPKl/view?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/badge/Resume%20%2F%20CV-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white" />
-    </a>
     <a href="https://www.instagram.com/1lauuu/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
@@ -70,19 +67,19 @@ hobbies:
 
 ### 📂 Featured Projects
 
-#### 🚀 **[LevelUp: Gamified Learning Platform](https://github.com/l4aaa/l4aaa-levelup-backend)**
+#### 🚀 **[LevelUp: Gamified Learning Platform](https://github.com/l4aaa/LevelUP-backend)**
 A robust gamified learning platform transforming academic tasks into an RPG experience.
 * **Stack:** Java 21, Spring Boot, PostgreSQL, React, TypeScript.
 * **Engineering:** Implemented `PESSIMISTIC_WRITE` locking for XP integrity and stateless JWT authentication.
 * **Design:** Normalized database schema for complex many-to-many relationships between users, tasks, and achievements.
 
-#### 🧠 **[Classical SAT Solvers](https://github.com/l4aaa/l4aaa-classical-sat-solving-algorithms)**
+#### 🧠 **[Classical SAT Solvers](https://github.com/l4aaa/classical-sat-solving-algorithms)**
 High-performance benchmarking tool for Boolean Satisfiability problems.
 * **Stack:** C++17, Python (CNF Generation), CMake.
 * **Performance:** Optimized 2SAT/3SAT solving using custom DIMACS parsers and `std::chrono` metrics.
 * **Algorithms:** Implemented Resolution, DPLL, and CDCL (Conflict-Driven Clause Learning).
 
-#### 💳 **[Electronic Wallet System](https://github.com/l4aaa/l4aaa-electronic-wallet-system)**
+#### 💳 **[Electronic Wallet System](https://github.com/l4aaa/electronic-wallet-system)**
 A distributed financial system simulation focused on data persistence.
 * **Stack:** C++17, STL.
 * **Architecture:** Decoupled Admin/Client processes interacting via shared CSV files.

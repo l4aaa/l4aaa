@@ -1,97 +1,99 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Laurentiu%20Chircan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20%7C%20Systems%20Internals%20%7C%20CS%20Student&descAlignY=60&descSize=20"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/laurentiu-chircan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:laurentiu.chircan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://instagram.com/1lauuu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://tryhackme.com/p/YOUR_USERNAME_HERE">
-    <img src="https://img.shields.io/badge/TryHackMe-C1272D?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7AA2F7,bb9af7,1a1b27&height=100&section=header&text=Laurentiu%20Andrei%20Chircan&desc=Cybersecurity%20%7C%20Systems%20Engineering%20%7C%20JDM%20%7C%20Gaming&fontSize=35&fontColor=c0caf5&fontAlign=50&fontAlignY=40&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<br />
-
-<h2>👨🏻‍💻 &nbsp;About Me</h2>
-
-I am a **Computer Science undergraduate** at the West University of Timisoara with a deep specialization in **Offensive Security** and **Low-Level Systems Engineering**.
-
-My approach to software is defined by a security-first mindset: I build complex architectures to understand exactly how they can be dismantled. Whether analyzing **memory management** in C++ or designing **stateless authentication** flows in Java, my goal is to master the intersection of performance and security.
-
-I am currently advancing my Red Teaming capabilities through **TryHackMe** tracks and independent vulnerability research.
-
-```yaml
-user_profile:
-  name: Laurentiu Andrei Chircan
-  location: Timisoara, Romania
-  education: 
-    - BSc in Computer Science (English Taught)
-    - West University of Timisoara
-   
-  core_competencies:
-    - 🛡️ Network Security & Pentesting
-    - 🐛 Low-Level Vulnerability Analysis
-    - 🧱 Secure System Architecture
-
-  active_research:
-    - Advanced Privilege Escalation Techniques
-    - Buffer Overflow & Memory Safety (C++)
-    - TryHackMe: Offensive Pentesting Path
-
-  hobbies:
-    - 🏎️ JDM Cars
-    - 🎮 Competitive Gaming
-    - 🔧 Hardware Tinkering
-```
+  <p>
+    <a href="https://linkedin.com/in/laurentiu-chircan">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:laurentiu.chircan@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://tryhackme.com" target="_blank">
+      <img src="https://img.shields.io/badge/TryHackMe-C1272D?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/1lauuu/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 <br />
 
-<h2>🛠️ &nbsp;Technical Arsenal</h2>
+### 👨‍💻 User Profile & Interests
 
-| **System Internals** | **Secure Web Architecture** | **Security & Ops** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" /> <br/> <img src="https://skillicons.dev/icons?i=linux,powershell" /> | <img src="https://skillicons.dev/icons?i=java,spring,react,ts" /> | <img src="https://skillicons.dev/icons?i=kali,git,docker,postgres" /> <br/> <img src="https://skillicons.dev/icons?i=vscode,postman,maven" /> |
+~~~yaml
+name: Laurentiu Chircan
+located_in: Timisoara, Romania
+current_status: Computer Science Student (Year 2)
 
+education:
+  - "BSc in Computer Science (West University of Timisoara)"
+
+fields_of_interests:
+  - "Cybersecurity (Offensive Security focus)"
+  - "Low-Level Programming & Systems Engineering"
+  - "Operating Systems & Internals"
+  - "Hardware & Networking Fundamentals"
+
+technical_background:
+  - "C/C++ (Intermediate)"
+  - "Java/Python (Comfortable)"
+  - "Linux/UNIX Environments"
+  - "Memory Management & Debugging"
+
+goals_2026:
+  - "Build security-oriented architecture projects"
+  - "Deepen understanding of System Internals"
+  - "Participate in CTFs (Capture The Flag)"
+
+hobbies:
+  - "Gaming"
+  - "JDM Cars 🔰"
+  - "Hardware Tinkering"
+~~~
+
+---
+
+### 🚀 Tech Stack & Tools
+
+<div align="center">
+
+| **Languages & Core** | **Backend & Database** | **Web & Frontend** | **DevOps & Tools** |
+|:---:|:---:|:---:|:---:|
+| ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) |
+
+</div>
+
+---
+
+### 📂 Featured Projects
+
+#### 🚀 **[LevelUp: Gamified Learning Platform](https://github.com/l4aaa/l4aaa-levelup-backend)**
+A robust gamified learning platform transforming academic tasks into an RPG experience.
+* **Stack:** Java 21, Spring Boot, PostgreSQL, React, TypeScript.
+* **Engineering:** Implemented `PESSIMISTIC_WRITE` locking for XP integrity and stateless JWT authentication.
+* **Design:** Normalized database schema for complex many-to-many relationships between users, tasks, and achievements.
+
+#### 🧠 **[Classical SAT Solvers](https://github.com/l4aaa/l4aaa-classical-sat-solving-algorithms)**
+High-performance benchmarking tool for Boolean Satisfiability problems.
+* **Stack:** C++17, Python (CNF Generation), CMake.
+* **Performance:** Optimized 2SAT/3SAT solving using custom DIMACS parsers and `std::chrono` metrics.
+* **Algorithms:** Implemented Resolution, DPLL, and CDCL (Conflict-Driven Clause Learning).
+
+#### 💳 **[Electronic Wallet System](https://github.com/l4aaa/l4aaa-electronic-wallet-system)**
+A distributed financial system simulation focused on data persistence.
+* **Stack:** C++17, STL.
+* **Architecture:** Decoupled Admin/Client processes interacting via shared CSV files.
+* **Security:** Engineered custom file I/O with input sanitization to prevent state corruption.
+
+---
 <br />
 
-<h2>🚀 &nbsp;Security & Engineering Projects</h2>
-
-### 🧠 [Classical SAT Solving Algorithms](https://github.com/l4aaa/classical-sat-solving-algorithms)
-> *C++17, Python 3, Algorithm Analysis*
-* **The Project:** A high-performance research tool for solving NP-complete Boolean Satisfiability problems.
-* **Security Core:** Explores the mathematical foundations of **cryptography** and **brute-force complexity**.
-* **Internals:** Implements **Resolution**, **DPLL**, and **CDCL** algorithms with custom memory parsers and millisecond-precision execution metrics.
-
-### 🎮 [LevelUp (Full Stack)](https://github.com/l4aaa/LevelUP-frontend)
-> *Java 21, Spring Boot 4, React 19, PostgreSQL*
-* **The Project:** A gamified academic platform transforming student tasks into an RPG adventure.
-* **Security Core:** Engineered a **Zero-Trust** authentication flow using **stateless JWTs** and custom security filters. Implemented **Pessimistic Locking** to prevent race condition exploits during transaction processing.
-* **Tech:** REST API, Vite, Tailwind CSS, TypeScript.
-
-### 💳 [Electronic Wallet System](https://github.com/l4aaa/electronic_wallet_system)
-> *C++17, STL, Systems Programming*
-* **The Project:** A distributed financial environment simulation with strict Client/Admin privilege separation.
-* **Security Core:** Focuses on **Defensive Coding**—specifically robust input sanitization to prevent integer overflows and state corruption. Simulates secure data persistence via custom serialization protocols.
-* **Tech:** Bidirectional data flow, CSV Serialization, P2P fund transfers.
-
-<br />
-
-<h2>📈 &nbsp;GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=l4aaa&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="l4aaa" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=l4aaa&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="l4aaa" height="150" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=7AA2F7,bb9af7,1a1b27" width="100%" />
+</div>
